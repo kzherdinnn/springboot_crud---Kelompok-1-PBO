@@ -1,7 +1,7 @@
-# Course
+# Web Data Mahasiswa Teknik Informatika
 
-Course registration project using Java Web with Spring Framework.<br>
-Spring much lighter! :)
+Informatics engineering student registration project using Java Web with Spring Framework.<br>
+Spring is much lighter! :)
 
 ## Features
 
@@ -20,3 +20,7 @@ Spring much lighter! :)
 - CSS
 - Bootstrap
 - MySql
+
+## Model ER
+
+![Screenshots](model_er.png)<br><br>
