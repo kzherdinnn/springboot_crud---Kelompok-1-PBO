@@ -6,7 +6,7 @@ Spring is much lighter! :)
 ## Features
 
 - CRUD
-- ACL
+- Acces Control List
 - Validation
 - Login
 - Responsive
