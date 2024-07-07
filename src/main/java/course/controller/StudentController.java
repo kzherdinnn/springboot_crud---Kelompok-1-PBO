@@ -73,6 +73,7 @@ public class StudentController {
             // Update existing student with new data
             existingStudent.setFirstName(student.getFirstName());
             existingStudent.setLastName(student.getLastName());
+            existingStudent.setDepartment(student.getDepartment());
             existingStudent.setEmail(student.getEmail());
             // You can update other fields as needed
             student = existingStudent; // Ensure we use the existing student object
